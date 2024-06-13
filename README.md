@@ -16,9 +16,9 @@ A simple and efficient Password Manager written in Python. The program allows us
 
 1. **استنساخ المستودع / Clone the repository**:
     ```bash
-    git clone https://github.com/Haiedr55/passwordmanager.git
-    cd password-manager
-    
+    git clone https://github.com/Haiedr55/passwordmanger
+    cd passwordmanager
+    pip/pip3 install requirements.txt
 
 2. تشغيل البرنامج / Run the program:
         python main.py
